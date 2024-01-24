@@ -1,2 +1,4 @@
 # Cinetica_HFIM
-Análisis Pk/PD y programación de HFIM
+Análisis PK/PD y programación de HFIM
+Realizado en RStudio.
+Aplicación Web por Shiny-R.
